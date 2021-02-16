@@ -283,16 +283,19 @@ html {
 }
 body {
 	width: 88.2%;
-	max-width: 900px;
+	max-width: 1020px;
 	padding-left: 0.9%;
 	padding-right: 0.9%;
 	margin: 0px auto auto auto;
 	clear: none;
 	float: none;
-	background-color: white;
-	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
-	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  rgba(31, 61, 31, 0.9) -20px 0px 25px;
+	background-color: #ffffff;
+	-moz-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px, 
+	rgba(31, 61, 31, 0.9) -20px 0px 25px;
+	-webkit-box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px,  
+	rgba(31, 61, 31, 0.9) -20px 0px 25px;
+	box-shadow: rgba(31, 61, 31, 0.9) 20px 0px 25px, 
+	rgba(31, 61, 31, 0.9) -20px 0px 25px;
 }
 
 article div h1 {
@@ -303,4 +306,4 @@ article div p {
 	font-size: 0.95em;
 }
 
-}
+
